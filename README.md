@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently learning Full Stack Web Development.<br>🐈 Fun fact I love cats!<br>📊 Currently learning SQLite && PostgreSQL!
+👩🏻‍💻 I’m currently learning Full Stack Web Development.<br>🐈 Fun fact I love cats!<br>📊 Currently learning SQLite && PostgreSQL!<br>✅ Finished my first project [Visit the Weather App Repository](https://github.com/mntandrei/weather-app).<br>🔜 Soon I will make a new repository using login && register features
 
 
 ## 🌐 Socials:
