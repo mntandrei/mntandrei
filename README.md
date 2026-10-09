@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently learning Front-End Web Development.<br>🐈 Fun fact I love cats!<br>📊✅ Finished my first project [Visit the Weather App Repository](https://github.com/mntandrei/weather-app).
+👩🏻‍💻 I’m currently learning Front-End Web Development.<br>🐈 Fun fact I love cats!<br>✅ Finished my first project [Visit the Weather App Repository](https://github.com/mntandrei/weather-app).
 
 
 ## 🌐 Socials:
