@@ -1,6 +1,8 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently learning Front-End Web Development.<br>🐈 Fun fact I love cats!<br>✅ Finished my first project [Visit the Weather App Repository](https://github.com/mntandrei/weather-app).
-
+👩🏻‍💻 I’m currently learning Front-End Web Development.<br>
+🐈 Fun fact I love cats!<br>
+✅ Finished my first project [Visit the Weather App Repository](https://github.com/mntandrei/weather-app). <br>
+👥 I'm looking for friends && collaborators!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mnttand) 
